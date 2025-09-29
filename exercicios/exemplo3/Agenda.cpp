@@ -2,6 +2,7 @@
 #include <iostream>
 #include <fstream>
 
+// criando um evento com informações vazias (inicializando)
 Agenda::Agenda() : titulo(""), data(""), hora(""), descricao("") {}
 
 // Adicionar evento

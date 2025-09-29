@@ -4,6 +4,7 @@
 #include <string>
 
 class Agenda {
+    
 private:
     std::string titulo;
     std::string data;
